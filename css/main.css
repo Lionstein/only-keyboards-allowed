@@ -7,6 +7,10 @@ html {
   color: #fff;
 }
 
+.nav a:focus {
+  outline-color: #fff;
+}
+
 .section-light {
   background-color: #fafafa;
   color: #222;
